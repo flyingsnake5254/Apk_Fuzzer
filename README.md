@@ -8,5 +8,8 @@
 ```shell
 git clone https://github.com/flyingsnake5254/Apk_Fuzzer.git
 ```
-
-
+2. 將要測試的 apk 放到 Apk_Fuzzer/apks 資料夾下
+3. 執行 apkfuzzer.sh 腳本
+```shell
+sh apkfuzzer.sh --auto
+```
