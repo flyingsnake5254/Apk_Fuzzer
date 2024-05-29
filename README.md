@@ -13,3 +13,4 @@ git clone https://github.com/flyingsnake5254/Apk_Fuzzer.git
 ```shell
 sh apkfuzzer.sh --auto
 ```
+4. 檢視 reports 資料夾下的測試報告
