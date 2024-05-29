@@ -4,7 +4,8 @@
 ### 專案說明文件 Link
 [專案說明文件](https://docs.google.com/document/d/15rKRyDYDa_ozdBwfN92YRrSEMgJSXYBMNOyZXxMH834/edit?usp=sharing "專案說明文件")
 # 工具使用說明（須使用 Linux 環境）
-1. ```markdown
+1. 取得專案
+```shell
 git clone https://github.com/flyingsnake5254/Apk_Fuzzer.git
 ```
 
