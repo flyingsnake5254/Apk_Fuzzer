@@ -16,3 +16,7 @@ git clone https://github.com/flyingsnake5254/Apk_Fuzzer.git
 sh apkfuzzer.sh --auto
 ```
 4. 檢視 reports 資料夾下的測試報告
+
+# temp
+Deep Reinforcement Fuzzing
+https://docs.google.com/presentation/d/107qDyp9Mr8eX3Uluz9rv9dzk_l57dppy/edit#slide=id.g27845f283f2_0_33
